@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 15.3.1//EN
+N:Weatherwax;Eric;;;
+FN:Eric Weatherwax
+ORG:BBL Construction Services;
+EMAIL;type=INTERNET;type=WORK;type=pref:eweatherwax@bblinc.com
+TEL;type=CELL;type=VOICE;type=pref:(518) 857-1925
+TEL;type=WORK;type=VOICE:(518) 452-8200\,4209
+TEL;type=WORK;type=FAX:(518) 425-2897
+item1.ADR;type=WORK;type=pref:;;302 Washington Avenue Ext;Albany;NY;;United States
+item1.X-ABADR:us
+URL;type=WORK;type=pref:https://www.bblinc.com
+END:VCARD
